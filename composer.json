@@ -1,5 +1,6 @@
 {
     "name": "allocine/twigcs",
+    "abandoned": "friendsoftwig/twigcs",
     "description": "Checkstyle automation for Twig",
     "license": "MIT",
     "authors": [
